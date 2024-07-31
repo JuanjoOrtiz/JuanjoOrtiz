@@ -1,5 +1,5 @@
-<h1>Hola 👋, Soy Juanjo Ortiz</h1>
-<p>Desarrollador FullStack de Madrid , España. </p>
+<h1>Hi 👋, i´m Juanjo Ortiz</h1>
+<p>FullStack developer at Madrid , Spain. </p>
 <h2>🚀 Herramientas que utilizo</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
