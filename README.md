@@ -1,5 +1,4 @@
-<h1>Hi 👋, <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/fd26ef42-c39a-4ac0-adbb-f9e4ea7798d6" />
-
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/fd26ef42-c39a-4ac0-adbb-f9e4ea7798d6" />
 <h2>🚀 Herramientas que utilizo</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
